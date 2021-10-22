@@ -1,10 +1,10 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="30px"> Yo! I'm Rasla
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="30px"> Hey Dude It's Himal,
 
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=Rasla-Dev" alt="Rasla-Dev"/> </div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=comming-soon-official" alt="comming-soon-official"/> </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-😇 &nbsp; This is Himal call me as a Coming-soon <br/>
+😇 &nbsp; Me Engineer and a Developer also a Tester <br/>
 💡 &nbsp;I like to explore new technologies, learn new things about programming and Love to building projects. <br/>
 😍 &nbsp;I am done with college now and learning new things along the way! <br/>
 🎵 &nbsp;Love Music! And Quote Writing<br/>
@@ -48,6 +48,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thinesh-rasla-779ba2189/"><img src="https://img.shields.io/badge/-thinesh_rasla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="programmer.rasla@gmail.com"><img src="https://img.shields.io/badge/-programmer.rasla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/lazy_code_"><img src="https://img.shields.io/badge/-@LazyCode-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/himal-b-180b701a5/"><img src="https://img.shields.io/badge/-himal-b-180b701a5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="himal9626@gmail.com"><img src="https://img.shields.io/badge/-himal9626@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/himal_official"><img src="https://img.shields.io/badge/-@himal_official-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
