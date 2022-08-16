@@ -6,7 +6,7 @@
 
 😇 &nbsp; Me Engineer and a Developer also a Vulnerblity Tester <br/>
 💡 &nbsp;I like to explore new technologies, learn new things about programming and Love to building projects. <br/>
-😍 &nbsp;I am done with college now and learning new things along the way! <br/>
+😍 &nbsp;Currently Software Engineer in testAing.com and learning new things along the way! <br/>
 🎵 &nbsp;Love Music! And Quote Writing<br/>
 😍 &nbsp;Chochlate Lub
 
