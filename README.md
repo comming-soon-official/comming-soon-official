@@ -2,7 +2,7 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=comming-soon-official" alt="comming-soon-official"/> </div>
 
-### Check My Portfolio:Check  http://himalportfolio.vercel.app/:Check 
+### Check My Portfolio: https://himalportfolio.vercel.app/
 
 ### 👨🏻‍💻 &nbsp;About Me
 
