@@ -13,9 +13,9 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🚀 **Engineer | Developer | Vulnerability Tester**
+- 🚀 **Full Stack | Devops | VAPT**
 - 💡 Passionate about exploring **new technologies** and building impactful **projects**.
-- 🌱 Currently working as a **Software Engineer** at [testAing.com](https://testaing.com) and always learning new things.
+- 🌱 Currently working as a **Software Engineer** in Fintech and always learning new things.
 - 🎵 **Music Enthusiast** and **Quote Writer**.
 - 🍫 Certified **Chocoholic** (Chocolate lover)!
 
