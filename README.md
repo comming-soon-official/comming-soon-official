@@ -15,7 +15,7 @@
 ### 👨‍💻 **About Me**
 - 🚀 **Full Stack | Devops | VAPT**
 - 💡 Passionate about exploring **new technologies** and building impactful **projects**.
-- 🌱 Currently working as a **Software Engineer** in Fintech and always learning new things.
+- 🌱 Currently working as a **Software Engineer** in **Fintech** feild and always learning new things.
 - 🎵 **Music Enthusiast** and **Quote Writer**.
 - 🍫 Certified **Chocoholic** (Chocolate lover)!
 
